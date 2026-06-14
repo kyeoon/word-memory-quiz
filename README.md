@@ -5,7 +5,7 @@
 
 ## Live Demo
 
-[GitHub Pages 바로가기](https://kyeoon.github.io/project/)
+[GitHub Pages 바로가기](https://kyeoon.github.io/word-memory-quiz/)
 
 ## 주요 기능
 
